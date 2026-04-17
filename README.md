@@ -2,3 +2,5 @@
 Project &amp; Tugas Data Science
 
 **Muhammad Irfan Ardiansyah** | NIM: **250401020175**
+
+- [x] Pertemuan 1
