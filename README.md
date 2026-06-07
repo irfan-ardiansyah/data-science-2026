@@ -1,44 +1,40 @@
-# data-science-2026
-Project &amp; Tugas Data Science
+# Praktikum - Data Science 2026
 
-**Muhammad Irfan Ardiansyah** | NIM: **250401020175**
+- Nama: **Muhammad Irfan Ardiansyah**
+- NIM: **250401020175**
+- Mata Kuliah: **Data Sceience**
 
-## Pertemuan 1
+## Desckripsi Singkat
 
-Dasar penggunaan python
-<br><br>
+Perkenalkan nama saya Muhammad Irfan Ardiansyah. Saya bersemangat untuk belajar **Data Science** karena ini adalah cabang ilmu yang beririsan dengan AI (Artificial Intelligence) & Machine Learning. Di era sekarang, belajar data science sangat lah penting sebagai pendukung untuk belajar AI & ML.
 
-## Pertemuan 2
-hasil latihan pertemuan 2
-#### 📊 Titanic Dataset Analysis
-```text
-1. Jumlah baris & kolom
-baris: 891
-kolom 12
+Didalam Data Sceience kita akan belajar pengolah data, membersihkan data, visualisasi sehingga dapat memberikan infornmasi untuk mendukung proses pengambilan keputusan serta menjadi fondasi utama dalam membangun model Machine Learning.
 
+Tujuan saya mempelajari Data Science adalah untuk memperdalam pemahaman mengenai data dan teknologi AI, sehingga di masa depan saya dapat mengembangkan solusi AI yang mampu membantu menyelesaikan berbagai permasalahan di dunia nyata.
 
-2. Kolom yang bernilai kosong
-Kolom kosong: ['Age', 'Cabin', 'Embarked']
+## Source Jupyter Notebook
 
+- Pertemuan 1 (Pengenalan Data Science & Dasar Python):
+  https://colab.research.google.com/drive/1I84To3rvSBc9B33V6xX35kXiuL0WsmpI?usp=sharing
 
-3. Persentase penumpang selamat
-38.38 %
+- Pertemuan 2 (Struktur Data Python):
+  https://colab.research.google.com/drive/1d43fCjVVgYCOzEFUo7slxpOGV12V5CPz?usp=sharing
 
+- Pertemuan 3 (Data Cleaning):
+  https://colab.research.google.com/drive/1BWB9iIWJl87Fff8JN7X-9qTUnJKgYJTC?usp=sharing
 
-4. Rata-rata usia penumpang wanita kelas 1 yang selamat
-34.61 %
+- Pertemuan 4 (Statistika Dasat & Analisa):
+  https://colab.research.google.com/drive/1LM8xhaVq8TunERFYghNRN_kqZn5tAx40?usp=sharing
 
+- Pertemuan 5 (Visualisasi Data):
+  https://colab.research.google.com/drive/1ujDbWM4mbnOA4313mjmSfLAYRgOlwNl1?usp=sharing
 
-5. Kelas penumpang mana yang tingkat keselamatan tertinggi
-Kelas  1
+- Pertemuan 6 (Persiapan Data):
+  https://colab.research.google.com/drive/1EdgFT94K5kbH65dfCyL_8suL5-wFbIwg?usp=sharing
 
+- Pertemuan 7 (Pengantar Machine Leaning - Regresi Linear):
+  https://colab.research.google.com/drive/1fHcZv5XgTYEO_GWexsGKn9LCyxDwYshJ?usp=sharing
 
-5. Tampilkan hasil groupby('Pclass')['Survived'].mean()
-Pclass
-1    0.63
-2    0.47
-3    0.24
-Name: Survived, dtype: float64
-```
+## Kesimpulan Akhir
 
-<br><br>
+Dengan mempelajari Data Science dari pertemuan 1-7, saya berharap dapat mengembangkan kemampuan analisis data yang kuat sebagai landasan dalam memahami dan membangun teknologi AI serta Machine Learning.
